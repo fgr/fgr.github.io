@@ -2,7 +2,7 @@
 
 ## Templates für Abschlussarbeiten
 
-- https://github.com/flaxel/thesis_template
+- [Falk Puschners LaTeX-Template](https://github.com/flaxel/thesis_template)
 
 ## Schreiben
 
