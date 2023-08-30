@@ -10,13 +10,13 @@ permalink: /kontakt/
 
 ## Postanschrift
 
-Prof. Dr. Frank Grimm
-Westsächsische Hochschule Zwickau
-Fakultät Physikalische Technik/Informatik
-Fachgruppe Informatik
-
-Kornmarkt 1
-
+Prof. Dr. Frank Grimm</br>
+Westsächsische Hochschule Zwickau</br>
+Fakultät Physikalische Technik/Informatik</br>
+Fachgruppe Informatik</br>
+</br>
+Kornmarkt 1</br>
+</br>
 D-08056 Zwickau
 
 ## Social
