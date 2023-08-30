@@ -13,7 +13,7 @@ Fachgruppe Informatik &middot; Westsächsische Hochschule Zwickau / Department o
 
 ## Kontakt
 
-[Details]({{< ref "kontakt" >}} "Kontakt")
+[Details](kontakt.md)
 
 # FAQ
 
