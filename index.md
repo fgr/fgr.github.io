@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Willkommen
 ---
-
-# Willkommen
 
 ... auf der Homepage von Professor Dr. Frank Grimm
 
