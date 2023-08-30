@@ -1,6 +1,15 @@
-+++
-title = "Courses/Lehrveranstaltungen"
-+++
+----
+title: "Courses/Lehrveranstaltungen"
+----
+
+## Wintersemester 2023/2024
+
+## Sommersemester 2023
+
+- Softwaretechnologie
+- - Programmierung 2
+- Kommunikationssysteme
+- Hardwarenahe Programmierung (C++)
 
 ## Wintersemester 2022/2023
 
