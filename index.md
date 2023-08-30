@@ -1,3 +1,7 @@
+# Willkommen
+
+... auf der Homepage von Professor Dr. Frank Grimm
+
 # FAQ
 
 ## Templates für Abschlussarbeiten
