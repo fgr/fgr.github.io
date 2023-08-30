@@ -1,6 +1,6 @@
-----
+---
 title: "Courses/Lehrveranstaltungen"
-----
+---
 
 ## Wintersemester 2023/2024
 
