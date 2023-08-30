@@ -1,11 +1,11 @@
-title: Frank Grimm
-author:
-  name: Frank Grimm
+title:
+#author:
+#  name:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Dr. Frank Grimm, Professor für Informati an der Westsächsische Hochschule Zwickau | Professor of Computer Science at University of Applied Sciences Zwickau
+# description: >
+#  Dr. Frank Grimm, Professor für Informati an der Westsächsische Hochschule Zwickau | Professor of Computer Science at University of Applied Sciences Zwickau
 
 # Build settings
 
