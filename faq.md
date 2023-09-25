@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FAQ Wissenschaftliches Schreiben
+title: Wissenschaftliches Schreiben
 ---
 
 ## LaTeX-Templates für Abschlussarbeiten
