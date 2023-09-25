@@ -49,6 +49,7 @@ minima:
 header_pages:
 - courses.md
 - kontakt.md
+- faq.md
 - impressum.md
 
 # Set to `true` to show excerpts on the homepage.
