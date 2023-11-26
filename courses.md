@@ -9,7 +9,7 @@ title: "Courses"
   - [Website](https://car2car.homefgr.de/)
 - Programmierung 1
 - Computerarchitektur
-  - [OPAL]()
+  - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/42396450817/CourseNode/1700796819702586008)
   - [Website](https://ca.homefgr.de/)
 - Eingebettete Systeme 
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432329/CourseNode/1665023393522328008)
