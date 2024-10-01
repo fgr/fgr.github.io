@@ -2,19 +2,9 @@
 title: "Courses"
 ---
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
-  <script>
-    new QRCode(document.getElementById("qrcode"), {
-      text: "tel:+1234098765\nhttp://example.com/",
-      width: 256,
-      height: 256,
-      colorDark: "#000000",
-      colorLight: "#ffffff",
-      correctLevel: QRCode.CorrectLevel.H
-    });
-  </script>
-
 ## Winter term 2024/2025
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgoogle.com&size=300x300">
 
 - Car-to-Car Communication
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1665023392901294008?12)
