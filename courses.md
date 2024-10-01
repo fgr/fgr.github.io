@@ -2,6 +2,18 @@
 title: "Courses"
 ---
 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <script>
+    new QRCode(document.getElementById("qrcode"), {
+      text: "tel:+1234098765\nhttp://example.com/",
+      width: 256,
+      height: 256,
+      colorDark: "#000000",
+      colorLight: "#ffffff",
+      correctLevel: QRCode.CorrectLevel.H
+    });
+  </script>
+
 ## Winter term 2024/2025
 
 - Car-to-Car Communication
