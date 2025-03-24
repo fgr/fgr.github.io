@@ -5,7 +5,7 @@ title: "Courses"
 ## Summer term 2025
 
 - Kommunikationssysteme
-  - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1665023392901294008?12](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/43647336453/CourseNode/1646623739741799011)
+  - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/43647336453/CourseNode/1646623739741799011)
   - [Website](https://kommsys.homefgr.de)
 - Hardware-nahe Programmierung
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/29413441536?8)
