@@ -2,7 +2,16 @@
 title: "Courses"
 ---
 
-## Winter term 2024/2025
+## Summer term 2025
+
+- Kommunikationssysteme
+  - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1665023392901294008?12](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/43647336453/CourseNode/1646623739741799011)
+  - [Website](https://kommsys.homefgr.de)
+- Hardware-nahe Programmierung
+  - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/29413441536?8)
+  - [Website](https://cpp.homefgr.de)
+
+## Winter term 2024/25
 
 ![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Ffgr.github.io%2Fcourses.html&size=300x300)
 
