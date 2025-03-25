@@ -9,6 +9,7 @@ title: "Courses"
   - [Website](https://kommsys.homefgr.de)
 - Hardware-nahe Programmierung
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/29413441536?8)
+    - [Einschreibung](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/29413441536/CourseNode/1741059223796974005)
   - [Website](https://cpp.homefgr.de)
 
 ## Winter term 2024/25
