@@ -8,7 +8,7 @@ title: "Courses"
 
 - Car-to-Car Communication
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1759113362965588004)
-    - [**Enrollment**](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1665023392901294008?2)
+    - [**Enrolment**](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432325/CourseNode/1665023392901294008?2)
   - [Website](https://pages.github.fh-zwickau.de/whz-module-pti07730-car-to-car-comm/)
 - Eingebettete Systeme 
   - [OPAL](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/37109432329/CourseNode/1665023393522328008)
